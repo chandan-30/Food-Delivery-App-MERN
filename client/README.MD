@@ -1,6 +1,6 @@
-# Food Ordering App - Client
+# Food Delivery App - Client
 
-This directory contains the frontend application for the Food Ordering App, built with React.
+This directory contains the frontend application for the Food Delivery App, built with React.
 
 ## Quick Start
 

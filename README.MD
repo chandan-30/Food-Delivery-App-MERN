@@ -1,6 +1,6 @@
-# Food Ordering App
+# Food Delivery App
 
-Welcome to the Food Ordering App project! This full-stack application created using MERN stack consists of a client-side (frontend) and server-side (backend) for a seamless food ordering experience.
+Welcome to the Food Delivery App project! This full-stack application created using MERN stack consists of a client-side (frontend) and server-side (backend) for a seamless food Delivery experience.
 
 ## Quick Start
 

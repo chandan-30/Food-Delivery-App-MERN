@@ -1,6 +1,6 @@
-# Food Ordering App - Server
+# Food Delivery App - Server
 
-This directory contains the backend server for the Food Ordering App, built with Node.js and Express.
+This directory contains the backend server for the Food Delivery App, built with Node.js and Express.
 
 ## Quick Start
 
