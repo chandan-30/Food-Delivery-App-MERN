@@ -32,7 +32,7 @@ jobs:
               run: npm install
         
             - name: Build
-              working-directory: clientx
+              working-directory: client
               run: npm run build
 
 
