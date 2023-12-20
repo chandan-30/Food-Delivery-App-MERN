@@ -4,13 +4,13 @@ on:
     pull_request:
         branches:
             - main
-        paths:
-            - 'client/**' # Trigger only when changes occur in the 'client' directory
+        # paths:
+        #     - 'client/**' # Trigger only when changes occur in the 'client' directory
     push:
         branches:
-            - 'main'
-        paths:
-            - 'client/**'
+            - 'dev-main'
+        # paths:
+        #     - 'client/**'
 
 jobs:
     build:
