@@ -31,11 +31,11 @@ jobs:
               working-directory: server
               run: npm install
         
-            - name: start
-              working-directory: server
-              run: npm run start
-              env:
-                MONGODB_URI: ${{ secrets.MONGODB_URI }}
+            # - name: start
+            #   working-directory: server
+            #   run: npm run start
+            #   env:
+            #     MONGODB_URI: ${{ secrets.MONGODB_URI }}
 
             - name: Exit Job Early on Condition
               run: exit 0  # Replace this with your actual condition
