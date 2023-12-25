@@ -1,5 +1,5 @@
 import { Route, Routes } from 'react-router-dom';
-import { Main, Login } from './components';
+import { Main, Login } from './containers';
 function App() {
   return (
     <div className='w-screen min-h-screen h-auto flex flex-col items-center justify-center'>
